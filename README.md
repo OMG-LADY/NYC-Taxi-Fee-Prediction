@@ -1,1 +1,1 @@
-# NYC-Taxi-Fee-Prediction
+# NYC-Taxi-Fare-Prediction
